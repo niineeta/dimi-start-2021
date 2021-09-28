@@ -1,6 +1,6 @@
 # dimi-start-2021
 ## pré-requis
-1. [git] (https://git-scm.com/download)
+1. [git](https://git-scm.com/download)
 1. node.js
 1. compte github
 1. Visual Studio Code
