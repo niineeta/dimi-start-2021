@@ -1,5 +1,7 @@
 # dimi-start-2021
 
+[projet cours (joseph m.)](https://github.com/jniac/dimi-start-2021)
+
 ## pré-requis
 1. [git](https://git-scm.com/download)
 1. node.js
