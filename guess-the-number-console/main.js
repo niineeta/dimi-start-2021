@@ -7,12 +7,15 @@ const misteryNumber = Math.round(Math.random() * 100)
 const submit = (x) => {
     if (x < misteryNumber) {
         console.log('Too small.')
+        document.body.style.backgroundColor = '#ff5722'
     }
     if (x > misteryNumber) {
         console.log('Too big.')
+        document.body.style.backgroundColor = '#03a9f4'
     }
     if (x == misteryNumber) {
         console.log('Hurray!')
+        document.body.style.backgroundColor = '#ffeb3b'
     }
 }
 
