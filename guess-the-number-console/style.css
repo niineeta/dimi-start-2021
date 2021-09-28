@@ -14,3 +14,16 @@ body, body *{
     justify-content: center;
     align-items: center;
 }
+
+h1{
+    font-size: 96px;
+}
+
+p span{
+    font-family: 'Roboto Condensed', sans-serif;
+    display: block;
+    background-color: #fff3;
+    border: solid 2px white;
+    border-radius: 16px;
+    padding: 16px;
+}
