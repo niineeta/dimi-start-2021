@@ -7,7 +7,7 @@ body, body * {
 }
 
 body {
-  background-color: lightslategrey;
+  background-color: rgb(221, 168, 252);
   min-height: 100vh;
   font-family: 'Roboto Condensed', sans-serif;
   text-align: center;
@@ -30,8 +30,8 @@ h2 {
 p span {
   font-family: 'Inconsolata', monospace;
   display: block;
-  background-color: #ff572247;
-  border: solid 2px #ff5722;
+  background-color: #a35ef147;
+  border: solid 2px #5100d3;
   border-radius: 16px;
   padding: 16px;
 }
