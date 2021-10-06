@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
 
 body, body * {
   margin: 0;
@@ -28,7 +28,7 @@ h2 {
 }
 
 p span {
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Roboto', sans-serif;
   display: block;
   background-color: #a35ef147;
   border: solid 2px #5100d3;
