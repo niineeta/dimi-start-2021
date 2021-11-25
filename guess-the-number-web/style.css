@@ -9,7 +9,7 @@ body, body * {
 }
 
 body {
-  background-color: lightslategrey;
+  background-color: rgb(216, 149, 255);
   min-height: 100vh;
   font-family: 'Roboto Condensed', sans-serif;
   display: flex;
@@ -36,7 +36,7 @@ button {
 }
 
 input {
-  background-color: #fff3;
+  background-color: rgba(63, 0, 82, 0.2);
   border: none;
   padding: 8px 16px;
   text-align: center;
